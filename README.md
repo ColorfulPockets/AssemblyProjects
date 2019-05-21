@@ -1,6 +1,4 @@
 # AssemblyProjects
-A place to store some of the things I've made with GNU ARM Assembly 
-
 This repository is a collection of class projects made in Assembly.
 
 XOR Encryptor: Reads a file and outputs an encrypted version using bitwise XOR with a user-created key value.
